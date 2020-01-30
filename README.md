@@ -2,5 +2,5 @@
 Bamazon HM
 ![image1](/assets/image1.PNG)
 
-Adding a new product
+(Add New Product)
 ![image2](/assets/bamazonManager.JPG)
